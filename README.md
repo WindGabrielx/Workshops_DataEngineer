@@ -9,6 +9,7 @@ Workshop1 :
 - Saving data after converting from a database
 
 Workshop2 :
+- Set enviroment variable
 - PySpark Setup
 - Data Profiling
 - Data Exploration
