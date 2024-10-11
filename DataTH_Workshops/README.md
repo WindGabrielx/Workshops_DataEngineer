@@ -17,13 +17,13 @@ Workshop2 :
   - Data Cleansing with Spark
     Timestamp: Incorrect data types and formats
 
-   **Anomalies Check**
-  -  Syntactical Anomalies
-     Lexical errors such as misspellings
-  -  Semantic Anomalies
-     Integrity Constraints: Values outside acceptable ranges
-  -  Coverage Anomalies
-     Missing Values: Checking and replacing empty values
-  -  Outliers: Data significantly higher or lower than the majority
-  -  Clean Data with Spark SQL
-  -  Save Data to CSV
+  -  Anomalies Check
+    -  Syntactical Anomalies
+       Lexical errors such as misspellings
+    -  Semantic Anomalies
+       Integrity Constraints: Values outside acceptable ranges
+    -  Coverage Anomalies
+       Missing Values: Checking and replacing empty values
+    -  Outliers: Data significantly higher or lower than the majority
+    -  Clean Data with Spark SQL
+    -  Save Data to CSV
