@@ -1,29 +1,3 @@
-# Workshop_DataTH
-Welcome to my workshop! In this session, I will share various case studies and practical examples from my learning journey through DataTH, an online platform offering the "Road to Data Engineer 2.0" course. The content here showcases the skills and knowledge I’ve gained.
+Welcome to my repository! This collection contains various workshops and practice projects I have completed to enhance my skills in the data engineering role. Each project allows me to apply theoretical knowledge to practical scenarios, helping me better understand the data engineering landscape.
 
-Workshop1 :
-- Converting data into a Pandas DataFrame
-- Calling an API
-- Joining two datasets
-- Viewing data in a database using a Pandas DataFrame
-- Saving data after converting from a database
-
-Workshop2 :
-- Set enviroment variable
-- PySpark Setup
-- Data Profiling
-- Data Exploration
-- Data Visualization with Seaborn and Plotly
-- Data Cleansing with Spark
-  Timestamp: Incorrect data types and formats
-
- **Anomalies Check**
--  Syntactical Anomalies
-   Lexical errors such as misspellings
--  Semantic Anomalies
-   Integrity Constraints: Values outside acceptable ranges
--  Coverage Anomalies
-   Missing Values: Checking and replacing empty values
--  Outliers: Data significantly higher or lower than the majority
--  Clean Data with Spark SQL
--  Save Data to CSV
+In this repository, you will find workshops focused on key areas such as databases, data warehouses, data lakes, ETL processes, and data analysis and visualization techniques. Additionally, I’ve included projects involving Google Cloud Platform (GCP), Apache Airflow for pipeline orchestration, Databricks for data processing, etc. These projects showcase my journey of learning and my readiness for professional opportunities in the field.
