@@ -2,20 +2,20 @@
 Welcome to my workshop! In this session, I will share various case studies and practical examples from my learning journey through DataTH, an online platform offering the "Road to Data Engineer" course. The content here showcases the skills and knowledge I’ve gained.
 
 Workshop1 :
-- Converting data into a Pandas DataFrame
-- Calling an API
-- Joining two datasets
-- Viewing data in a database using a Pandas DataFrame
-- Saving data after converting from a database
+  - Converting data into a Pandas DataFrame
+  - Calling an API
+  -  Joining two datasets
+  - Viewing data in a database using a Pandas DataFrame
+  - Saving data after converting from a database
 
 Workshop2 :
-- Set enviroment variable
-- PySpark Setup
-- Data Profiling
-- Data Exploration
-- Data Visualization with Seaborn and Plotly
-- Data Cleansing with Spark
-  Timestamp: Incorrect data types and formats
+  - Set enviroment variable
+  - PySpark Setup
+  - Data Profiling
+  - Data Exploration
+  - Data Visualization with Seaborn and Plotly
+  - Data Cleansing with Spark
+    Timestamp: Incorrect data types and formats
 
    **Anomalies Check**
   -  Syntactical Anomalies
