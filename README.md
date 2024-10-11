@@ -1,5 +1,5 @@
-# Workshop_DataEngineer
-Welcome to my repository This collection contains various workshops and practice projects that I have completed to enhance my skills in data engineer role, These projects showcase my journey of learning and my readiness for professional opportunities in the field.
+# Workshop_DataTH
+Welcome to my workshop! In this session, I will share various case studies and practical examples from my learning journey through DataTH, an online platform offering the "Road to Data Engineer 2.0" course. The content here showcases the skills and knowledge I’ve gained.
 
 Workshop1 :
 - Converting data into a Pandas DataFrame
