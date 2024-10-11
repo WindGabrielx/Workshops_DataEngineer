@@ -17,7 +17,7 @@ Workshop2 :
   - Data Cleansing with Spark
     Timestamp: Incorrect data types and formats
 
-  -  Anomalies Check
+  -  Anomalies Check :
     -  Syntactical Anomalies
        Lexical errors such as misspellings
     -  Semantic Anomalies
