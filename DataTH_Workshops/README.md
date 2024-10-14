@@ -27,3 +27,12 @@ Workshop2 :
     -  Outliers: Data significantly higher or lower than the majority
     -  Clean Data with Spark SQL
     -  Save Data to CSV
+
+Workshop 3:
+
+  - Comparison between Cloud and On-Premise
+  - Introduction to various Cloud concepts, such as Managed Services and Serverless computing
+  - Getting to know different services on Google Cloud
+  - Comparison of Data Processing and Storage
+  - Learning the basics of Command-line (Bash)
+    - In this coding session, we will work with both Cloud Shell and Cloud Storage for uploading and downloading files through coding.
