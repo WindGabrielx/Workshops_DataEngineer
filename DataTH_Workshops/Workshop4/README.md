@@ -13,3 +13,7 @@ Welcome to my workshop! In this session, I will share various case studies and p
       - Create a simple pipeline using task dependencies: T1 >> T2, where T1 prints "HELLO WORLD" and T2 prints the current date and time.
         After finishing the coding, copy the file from Cloud Shell to the DAGs bucket.
         Once you click on Airflow, it will display the DAGs (Directed Acyclic Graph) for the pipeline.
+    
+    workshop4_1_Taskflow:
+      - In Airflow 2.0 and above, It's the Taskflow API, I used this API to code the same process as in workshop4_1.
+        The pipeline consists of task dependencies where T1 prints "HELLO WORLD" and T2 prints the current date and time
