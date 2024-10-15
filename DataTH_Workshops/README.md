@@ -46,5 +46,11 @@ Workshop 4:
   - Using the Taskflow API, PythonOperator, BashOperator, DummyOperator
   - Import MySqlHook and edit the Airflow connection to enable connectivity to MySQL
 
+Workshop 5:
+  - Differences between Table and View, and understanding Partitioning
+  - Introduction and hands-on experience with Google BigQuery
+  - Loading data into BigQuery using Airflow
+      - BashOperator method and GCSToBigQueryOperator method
+
 
    
