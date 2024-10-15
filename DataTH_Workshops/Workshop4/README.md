@@ -8,7 +8,6 @@ Welcome to my workshop! In this session, I will share various case studies and p
   - Building a data pipeline with Apache Airflow
   - Using the Taskflow API, PythonOperator, BashOperator, DummyOperator
 
-
     Workshop4_1:
       - Create a simple pipeline using task dependencies: T1 >> T2, where T1 prints "HELLO WORLD" and T2 prints the current date and time.
         After finishing the coding, copy the file from Cloud Shell to the DAGs bucket.
