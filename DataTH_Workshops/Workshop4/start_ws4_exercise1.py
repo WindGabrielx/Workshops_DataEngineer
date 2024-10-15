@@ -36,5 +36,5 @@ with DAG(
         bash_command="echo $(date)",
     )
 
-    #ใส่ task dependencies.
+    #ใส่ task dependencies
     t1 >> t2
