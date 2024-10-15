@@ -50,7 +50,9 @@ Workshop 5:
   - Differences between Table and View, and understanding Partitioning
   - Introduction and hands-on experience with Google BigQuery
   - Loading data into BigQuery using Airflow
-      - Directly imported the data file to BigQuery. (Manual method), BashOperator (Automatic method), GCSToBigQueryOperator (Automatic method)
+      - Directly imported the data file to BigQuery. (Manual method),
+      - BashOperator (Automatic method),
+      - GCSToBigQueryOperator (Automatic method)
 
 
    
