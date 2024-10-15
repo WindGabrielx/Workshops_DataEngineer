@@ -23,6 +23,6 @@ with DAG(
     t6 = DummyOperator(task_id="task_6")
     
      
-    # TODO: สร้าง DummyOperator เพื่อสร้าง dependency ที่ซับซ้อน
+    #สร้าง DummyOperator เพื่อสร้าง dependency ที่ซับซ้อน
     [t0, t1, t2]>>t4
     [t3, t4, t5]>>t6
