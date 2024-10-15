@@ -36,7 +36,7 @@ with DAG(
         bash_command="echo $(date)",
     )
 
-    #TODO: ใส่ task t3 สำหรับ list ไฟล์ใน GCS bucket ที่เป็น DAGs folder
+    #ใส่ task t3 สำหรับ list ไฟล์ใน GCS bucket ที่เป็น DAGs folder
     #hint: ใช้ BashOperator ร่วมกับ command gsutil
 
     t3 = BashOperator(
@@ -44,6 +44,6 @@ with DAG(
         bash_command ="gsutil ls gs://us-central1-workshop4-e25f0be1-bucket/dags"
     )
     
-    # TODO: ใส่ task dependencies ที่ทำให้รัน t3 พร้อมกับ t2 ได้
+    #ใส่ task dependencies ที่ทำให้รัน t3 พร้อมกับ t2 ได้
     t1 >> (t2,t3)
    
