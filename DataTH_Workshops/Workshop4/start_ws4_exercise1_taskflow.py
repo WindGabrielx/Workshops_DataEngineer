@@ -38,7 +38,7 @@ def exercise1_taskflow_dag():
         task_id="list_file_gcs",
         bash_command ="gsutil ls gs://us-central1-workshop4-e25f0be1-bucket/dags"
     )    
-    # TODO: สร้าง task dependencies ที่นี่
+    #สร้าง task dependencies
     t1 >> (t2,t3)
 
 exercise1_dag = exercise1_taskflow_dag()
