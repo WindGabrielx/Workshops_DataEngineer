@@ -24,7 +24,8 @@ Welcome to my workshop! In this session, I will share various case studies and p
 
     Workshop4_2:
       - This workshop help to understand how to fan out tasks, allowing multiple tasks to run concurrently after a single task completes
-        T1 is 'Hello world.' After it has run completely, T2 and T3 will be running at the same time (in parallel). T2 is 'Print date,' and T3 checks the list of files
+        T1 is 'Hello world.' After it has run completely, T2 and T3 will be running at the same time (in parallel). T2 is 'Print date,' and T3 checks the list
+        of   files
         in the GCP dags bucket.
         The dependencies are defined as.
         t1 >> (t2,t3)
