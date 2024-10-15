@@ -8,6 +8,7 @@ Welcome to my workshop! In this session, I will share various case studies and p
      BashOperator (Automatic method), GCSToBigQueryOperator (Automatic method)
       
 
+
      Workshop_start_ws5_bq_load.py:
         - Automatic (BashOperator): I used the BashOperator to automatically import the result from our bucket to BigQuery and named the data file (Task T4). 
           This process continues from workshop 4_4, and the task dependencies are defined as:
