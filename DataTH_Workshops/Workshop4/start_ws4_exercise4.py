@@ -75,7 +75,7 @@ with DAG(
     tags=["workshop"]
 ) as dag:
 
-    # TODO: สร้าง t1, t2, t3 ที่ใช้ PythonOperator 
+    # สร้าง t1, t2, t3 ที่ใช้ PythonOperator 
     # และสร้าง task dependencies
     
     t1 = PythonOperator(
