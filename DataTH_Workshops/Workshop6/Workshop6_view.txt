@@ -1,5 +1,0 @@
-SELECT country, count(country) as transactions
-FROM `r2de-422101.workshop_5.audible_data1` 
-GROUP BY country
-ORDER BY transactions DESC
-LIMIT 10
