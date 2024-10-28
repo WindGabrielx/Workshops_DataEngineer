@@ -54,5 +54,7 @@ Workshop 5:
       - BashOperator (Automatic method),
       - GCSToBigQueryOperator (Automatic method)
 
-
+Workshop 6:
+  - Using the View function on Google Cloud BigQuery
+  - Connecting a Looker Dashboard with Google BigQuery to view the results of all completed workshop exercises more clearly.
    
