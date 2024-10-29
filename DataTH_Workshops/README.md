@@ -57,4 +57,6 @@ Workshop 5:
 Workshop 6:
   - Using the View function on Google Cloud BigQuery
   - Connecting a Looker Dashboard with Google BigQuery to view the results of all completed workshop exercises more clearly.
-   
+
+![Workshop6_1_Real](https://github.com/user-attachments/assets/12af1745-04b9-487d-be4f-2067d1c1d82b)
+![Workshop6_2_Real](https://github.com/user-attachments/assets/f87c68b6-a352-40f6-9044-22a0e2294152)
