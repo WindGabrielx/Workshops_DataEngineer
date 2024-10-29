@@ -10,4 +10,4 @@ Welcome to my workshop! In this session, I will share various case studies and p
 
 
 **https://lookerstudio.google.com/reporting/3962bc22-6739-40fb-960f-a10f1ea6179c**
-You can use this link to try inference with Looker in this session
+- You can use this link to try inference with Looker in this session
